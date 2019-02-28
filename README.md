@@ -9,4 +9,4 @@ src folder contains:
 
 How to run the code:
 
-To shell: java passwordGuesser
+**-)** To shell: java passwordGuesser
