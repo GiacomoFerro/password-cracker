@@ -7,7 +7,7 @@ src folder contains:
 1) **Dizionario.java** = An object containing an ArrayList<String> of words taken from external files.
 2) **passwordGenerator.java** = It tooks a word from the dictionary every time.
 3) **passwordGuesser.java** = The main class that can crack the password.
-4) **volume folder** = contains files of words.
+4) **volume folder** = Contains files of words.
 
 How to run the code:
 
