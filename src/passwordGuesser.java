@@ -45,10 +45,11 @@ public class passwordGuesser {
             do{
 
                 generatore.computePassword(indice);
-		        indice+=1;
+			indice+=1;
 
-		    }while( ( ! generatore.equals(password) ) && ( ! generatore.getPassword().equals("") ) && indice != dimMassima);
-        }
+	    	}while( ( ! generatore.equals(password) ) && ( ! generatore.getPassword().equals("") ) && indice != dimMassima);
+			
+		}//fine for()
 		
 		endTime = System.currentTimeMillis();
 		
