@@ -1,6 +1,6 @@
 # password-cracker
 
-A simple password cracker in Java.
+A simple password cracker in Java (BRUTE FORCE APPROACH).
 
 src folder contains:
 
